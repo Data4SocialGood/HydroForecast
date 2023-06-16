@@ -25,8 +25,8 @@ In order to aid the learning process and generate more possibly relevant feature
 
 1. **historical meteo data**: Meteorological data in Attica. Taken from: https://open-meteo.com
 2. **student population**: Data on the number of students in each school for the years 2018 - 2019. The names of the schools were matched to the ones in our dataset. Taken from: https://www.data.gov.gr/datasets/minedu_students_school
-3. **regional financial allocation**: Data on the financial allocation per municipality. Taken from:
-4. **populations.xslx**: Data on population per municipality. Taken from:
+3. **regional financial allocation**: Data on the financial allocation per municipality. Taken from: https://www.ypes.gr/apokentromeni-dioikisi-aytodioikisi/oikonomika-stoicheia-ota/deltia-oikonomikon-stoicheion-ota
+4. **populations.xslx**: Data on population per municipality. Taken from: https://fourtounis.gr/2022/07/25/%CE%BF-%CF%80%CE%BB%CE%B7%CE%B8%CF%85%CF%83%CE%BC%CF%8C%CF%82-%CF%84%CF%89%CE%BD-%CE%B4%CE%AE%CE%BC%CF%89%CE%BD-%CF%84%CE%B7%CF%82-%CE%B1%CF%84%CF%84%CE%B9%CE%BA%CE%AE-%CF%83%CF%8D%CE%BC%CF%86%CF%89/#prettyPhoto based on the population census of 2021.
 
 For the mapping of schools to real-life coordinates we made use of the Google Maps API.
 
