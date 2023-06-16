@@ -31,6 +31,6 @@ In order to aid the learning process and generate more possibly relevant feature
 For the mapping of schools to real-life coordinates we made use of the Google Maps API.
 
 ## Results
-The application makes use of two fine-tuned LSTM and XGBoost models to make predictions for schools using digital meters and one LSTM model to make prediction on the schools with analog meters.
+The application makes use of two fine-tuned LSTM and XGBoost models to make predictions for schools using digital meters and one LSTM model to make predictions on the schools with analog meters.
 
 ## Run
