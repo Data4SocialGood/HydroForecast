@@ -1,0 +1,22 @@
+{
+    "id": "schools",
+    "name": "schools.csv",
+    "type": "CSV",
+    "hasHeader": true,
+    "objectCount": 1500,
+    "xMin": 23.4,
+    "xMax": 23.9,
+    "yMin": 37,
+    "yMax": 39,
+    "queryXMin": 23.489697,
+    "queryXMax": 23.839668,
+    "queryYMin": 37.73585,
+    "queryYMax": 38.11417,
+    "measure0": 15,
+    "measure1": 16,
+    "dimensions": [5,9],
+    "idCol": 0,
+    "timePaths": ["/opt/eidap-workspace/time-data"],
+    "lat": 1,
+    "lon": 2
+}

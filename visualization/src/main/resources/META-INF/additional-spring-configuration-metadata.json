@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "jhipster.clientApp.cors.allowed-methods",
+      "type": "java.lang.String",
+      "description": "Description for jhipster.clientApp.cors.allowed-methods."
+  }
+] }
