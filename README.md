@@ -1,6 +1,8 @@
 # HydroForecast: An app for visualization and predictions over water consumption data for schools in Attica
 
 ## Configuration
+This app runs on Java version 11. Make sure you have it installed.
+Make sure the port 8080 of the localhost is not blocked by any other application.
 
 ## Datasets
 The final, post-processing datasets can be found in the data folder. The raw data was provided by ΕΥΔΑΠ and contained metrics by both analog and digital meters. 
@@ -34,3 +36,6 @@ For the mapping of schools to real-life coordinates we made use of the Google Ma
 The application makes use of two fine-tuned LSTM and XGBoost models to make predictions for schools using digital meters and one LSTM model to make predictions on the schools with analog meters.
 
 ## Run
+1.**Move to the visualization folder**: cd visualization
+2.**Package the app:** mvn clean package
+3.**Run the app:** java -jar target/hydroforecast-0.0.1.jar
